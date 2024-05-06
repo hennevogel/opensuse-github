@@ -25,7 +25,7 @@ There is only one way to become an organization owner. One of the existing organ
 There are a lot of things that only organization owners can do. 
 
 - *MUST* actively participate in organization owner sponsorship management
-- *MUST* actively participate in repository management (solving repository
+- *MUST* actively participate in repository management (manage repository escalations)
 - *MUST* actively participate in membership management (org membership, team membership etc.)
 - *MUST* actively participate in maintenance of the [organization's profile page](https://github.com/openSUSE/)
 - *MUST* actively participate in managing [GitHub Marketplace app installations](https://github.com/organizations/openSUSE/settings/installations)
@@ -52,8 +52,7 @@ an elevated set of permissions. These capabilities should not be used by those t
 Therefore members with an extended period away from the project with no activity will be removed as openSUSE GitHub Organization Owner
 and will be required to go through the initial membership process again after re-familiarizing themselves with the current state.
 
-Activity is measured by the contributions in the last 12 months in one of the following actions in the [github audit log](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/reviewing-the-audit-log-for-your-organization#searching-the-audit-log
-):
+Activity is measured by the contributions in the last 12 months in one of the following actions in the [github audit log](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/reviewing-the-audit-log-for-your-organization#searching-the-audit-log):
 
 - account
 - integration_installation
@@ -65,4 +64,12 @@ Activity is measured by the contributions in the last 12 months in one of the fo
 
 This is the list of current openSUSE Github Organization Owners
 
-- 
++ adrianschroeter
++ cboltz
++ darix
++ dirkmueller
++ hennevogel
++ jordimassaguerpla
++ lkocman
++ tomschr
++ 
