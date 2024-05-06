@@ -64,12 +64,11 @@ Activity is measured by the contributions in the last 12 months in one of the fo
 
 This is the list of current openSUSE Github Organization Owners
 
-+ adrianschroeter
-+ cboltz
-+ darix
-+ dirkmueller
-+ hennevogel
-+ jordimassaguerpla
-+ lkocman
-+ tomschr
-+ 
+- @adrianschroeter
+- @cboltz
+- @darix
+- @dirkmueller
+- @hennevogel
+- @jordimassaguerpla
+- @lkocman
+- @tomschr
