@@ -35,7 +35,7 @@ There are a lot of things that only organization owners can do.
 
 ## Stop being an Organization Owner
 
-There are two ways to stop being an organization owner.
+There are three ways to stop being an organization owner.
 
 ### Step Down
 
@@ -59,6 +59,10 @@ Activity is measured by the contributions in the last 12 months in one of the fo
 - integration_installation_request
 - org
 - team
+
+### Loosing openSUSE Membership
+
+If you loose your openSUSE Membership you loose your organization owner status.
 
 ## Current Owners
 
