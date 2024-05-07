@@ -1,6 +1,6 @@
 # openSUSE Github Organization Owner Governance
 
-This document explains the road to become, the expected duties of and the way out of openSUSE Github organization ownership.
+This document explains the road to and out of openSUSE Github organization ownership and the expected duties of an owner.
 
 openSUSE Github organization owners have [complete administrative access](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization#permissions-for-organization-roles)
 to all projects in the [openSUSE organization](https://github.com/openSUSE/). They are not to be confused with people who have
@@ -60,9 +60,9 @@ Activity is measured by the contributions in the last 12 months in one of the fo
 - org
 - team
 
-### Loosing openSUSE Membership
+### Losing openSUSE Membership
 
-If you loose your openSUSE Membership you loose your organization owner status.
+If you lose your openSUSE Membership you lose your organization owner status.
 
 ## Current Owners
 
